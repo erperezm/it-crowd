@@ -11,6 +11,15 @@ Esta es una página web personal desarrollada por el crowd. Cada uno de nosotros
 - **Redes Sociales:** [LinkedIn](https://do.linkedin.com/in/ernesto-perez-m) | [GitHub](https://github.com/ReactSn0w) | [X](https://twitter.com/erperezm) 
 |  [Instagram](https://www.instagram.com/erperezm/)
 
+### Fernando Escoboza
+- **About me**
+Professional Technician in Computer Science from INFOTEP, last year student of Computer Systems Engineering. I am currently working as a Systems Administrator and Data Analyst at Edenorte Dominicana S.A. Passionate about Big Data and developing software that makes life easier for others.
+
+- **Redes Sociales:**
+[LinkedIn](https://www.linkedin.com/in/fernando-escoboza-3b1171195/) | 
+[Github](https://github.com/FernandoEscoboza) |
+[X](https://twitter.com/Escoboza0417)
+
 
 ## Tecnologías Utilizadas
 - HTML
