@@ -19,6 +19,7 @@ Professional Technician in Computer Science from INFOTEP, last year student of C
 [LinkedIn](https://www.linkedin.com/in/fernando-escoboza-3b1171195/) | 
 [Github](https://github.com/FernandoEscoboza) |
 [X](https://twitter.com/Escoboza0417)
+[Instagram](https://www.instagram.com/fernando_escoboza/)
 
 
 ## Tecnologías Utilizadas
