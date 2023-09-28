@@ -22,10 +22,17 @@ Professional Technician in Computer Science from INFOTEP, last year student of C
 [Instagram](https://www.instagram.com/fernando_escoboza/)
 
 
+### Jhonatan
+- **About me**
+Tecnico de informatica de Infraestructura de operaciones TI, me gustan los videojuegos, comer, dormir y escuchar musica. 
+
+- **Redes Sociales:**
+[Github](https://github.com/XxJ0hnnxX) |
+
+
 ## Tecnologías Utilizadas
 - HTML
 - CSS
-- JavaScript
 
 
 ## Instrucciones de Uso
