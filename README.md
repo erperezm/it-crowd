@@ -33,7 +33,7 @@ Tecnico de informatica de Infraestructura de operaciones TI, me gustan los video
 ## Tecnologías Utilizadas
 - HTML
 - CSS
-
+- JS
 
 ## Instrucciones de Uso
 1. Clona este repositorio en tu máquina local.
@@ -47,6 +47,9 @@ Apreciamos cualquier contribución o sugerencia para mejorar nuestra página web
 ## Licencia
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE.md para obtener más detalles.
 
+
+## Pagina
+[https://erperezm.github.io/it-crowd/](https://erperezm.github.io/it-crowd/)
 ---
 
 ¡Esperamos que disfrutes explorando nuestros perfiles personales y que te sirvan de inspiración para tu propio perfil en la página web! Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en contactarnos.
