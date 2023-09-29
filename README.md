@@ -30,6 +30,18 @@ Tecnico de informatica de Infraestructura de operaciones TI, me gustan los video
 [Github](https://github.com/XxJ0hnnxX) |
 
 
+### Ramón Hernández
+- **About me**
+Professional Technician in Computer Science from UTESA. I am currently working as a Systems Administrator and Windows Server at Edenorte Dominicana S.A. Passionate about Big Data and learn software that makes life easier for others.
+
+- **Redes Sociales:**
+ 
+[Github](https://github.com/raemher) |
+[Facebook](https://web.facebook.com/ramonemilioh/)
+[Instagram](https://www.instagram.com/rhernandezb)
+
+
+
 ## Tecnologías Utilizadas
 - HTML
 - CSS
