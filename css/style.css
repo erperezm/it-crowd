@@ -4,6 +4,15 @@
 
 /* parte de css de Jhonatan */
 
+.titulo1{
+
+    display: flex;
+    justify-content: center;
+    
+    
+   
+}
+
 #colorJ{
 background-color: #6ab7f5;
 margin-left: 200px;
@@ -13,11 +22,14 @@ margin-top: 50px;
 }
 .cardJ {
 
-    border: 2px;
-    border-radius:3% ;
+background-color: white;
+margin-left: 1070px;
+margin-top: -1064px; 
 border-style: solid;
 border-color: black;
+
 }
+
 .centrar{
     display: flex;
     justify-content: center;
@@ -28,5 +40,63 @@ border-color: black;
 
     margin:5px
 }
+.card-img-top{
+
+    
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+}
+
+.button{
+
+
+}
+
+.titulo2{
+
+    
+display: flex;
+justify-content: center;
+background-color: rgb(231, 84, 15);
+border-style: solid ;
+border-color: black;
+border-top: 0px;
+border-left: 0px;
+border-right: 0px;
+border-width: 2px;
+
+}
+
+.parrafo{
+
+
+margin: 500px;
+margin-left: 350px;
+margin-top: -20px;
+
+  
+
+}
+.jus{
+
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
+    
+
+}
+
+.texto{
+
+    border-style: solid;
+    margin-left: 100px ;
+    margin-top: -550px;
+    
+    
+    
+
+}
+
 
 /* parte de css de Jhonatan */
